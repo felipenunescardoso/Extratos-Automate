@@ -1,0 +1,17 @@
+﻿.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.sql
+*.xlsx
+*.xls
+*.pdf
+*.csv
+*.bak
+*.zip
+*.txt
